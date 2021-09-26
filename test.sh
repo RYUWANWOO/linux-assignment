@@ -1,5 +1,6 @@
 #!/bin/sh
 myVar="Hi sys"
+echo "Hello"
 echo $myVar
 echo "$myVar"
 echo '$myVar'
